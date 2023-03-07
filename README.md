@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do PedroZiTan 😁
+## hi I am PedroZiTan
 
  <div>
    <a href="https://github.com/PedroZiTan">
