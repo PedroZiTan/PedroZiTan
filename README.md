@@ -16,7 +16,7 @@ I'am years 17 old
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### PedroZiTan
  
 <div> 
   <a href="https://www.youtube.com/@PedroZiTan" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
