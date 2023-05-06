@@ -26,6 +26,8 @@ I'am years 17 old
   ![Snake animation](https://github.com/PedroZiTan/PedroZiTan/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+	
+	<div>
 
  <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
@@ -106,3 +108,4 @@ I'am years 17 old
 		</div>
 	</foreignObject>
 </svg>
+		</div>
