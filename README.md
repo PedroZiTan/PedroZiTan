@@ -8,7 +8,7 @@ I'am years 17 old
   <br>
     <img src="header.svg" width="500" height="250">
     <br>
- SVG credits to https://github.com/sindresorhus/css-in-readme-like-wat
+SVG credits to https://github.com/sindresorhus/css-in-readme-like-wat
 
 </div>
 <div style="display: inline_block"><br>
