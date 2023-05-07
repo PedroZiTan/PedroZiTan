@@ -4,7 +4,10 @@ I'am years 17 old
 
  <div>
    <a href="https://github.com/PedroZiTan">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroZiTan&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/><img src="header.svg" width="500" height="250">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroZiTan&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    
+    <br>
+    <img src="header.svg" width="500" height="250">
     <br>
 
 </div>
