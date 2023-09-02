@@ -1,9 +1,6 @@
 ## hi, I am PedroZiTan
 
 I'am years 17 old
-
-
-<img src="header.svg" width="500" height="250">
    
 
  <div>
