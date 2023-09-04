@@ -23,5 +23,3 @@ I'am years 17 old
   <a href="https://www.instagram.com/pedrozitan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-zi-kang-tan-621110269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
- 
- SVG credits to https://github.com/sindresorhus/css-in-readme-like-wat
