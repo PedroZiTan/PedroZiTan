@@ -1,24 +1,6 @@
 ## hi, I am PedroZiTan
 
-I am 17 years old
-
-# My Profile
-
-## My Age
-
-<script>
-  // Set your birth year
-  var birthYear = 1990; // replace with your birth year
-
-  function calculateAge() {
-    var currentDate = new Date();
-    var currentYear = currentDate.getFullYear();
-    var age = currentYear - birthYear;
-    document.getElementById("age").innerHTML = "My current age is: " + age;
-  }
-
-  calculateAge();
-</script>
+I am 19 years old
 
 <h1 id="age"></h1>
    
